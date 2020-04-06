@@ -151,7 +151,7 @@ Hey OSS community, there are a lot of TODOs if someone wants to contribute.
 + CompareCoverage (sub-instruction profiling to bypass fuzzing roadblocks)
 + rewrite frida-fuzzer in C with frida-core to be able to run all stuff on the mobile device
 
-If you have doubt on one of this featues feel free to DM me on [Twitter](https://twitter.com/andreafioraldi).
+If you have doubt on one of this featues feel free to DM me on [Twitter](https://twitter.com/andripwn).
 
-For features proposals, there is the [Issues section](https://github.com/andreafioraldi/frida-fuzzer/issues).
+For features proposals, there is the [Issues section](https://github.com/andripwn/frida-fuzz/issues).
 
